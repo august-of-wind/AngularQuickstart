@@ -1,6 +1,10 @@
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
+AUGUST MEYER'S NOTE: This is my personal implementation of the Angular Quickstart tutorial. I am hosting it here
+in my own repository for my own reference.
+
+
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
 
